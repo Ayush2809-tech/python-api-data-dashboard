@@ -50,6 +50,7 @@ The dashboard provides:
 
 ## 📁 Project Structure
 
+```text
 API_Dashboard/
 ├── dashboard.py
 ├── api_test.py
@@ -57,6 +58,7 @@ API_Dashboard/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 
 ## ⚙️ Installation and Setup
@@ -66,7 +68,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Ayush2809-tech/python-api-data-dashboard.git
 ```
 
 ### 2. Navigate to the Project Directory
