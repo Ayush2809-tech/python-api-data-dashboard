@@ -1,4 +1,11 @@
 # 📊 API Data Dashboard
+## 🌐 Live Demo
+
+🚀 [Open Python API Data Dashboard](https://python-api-data-dashboard-f2te2upmp2xqhwtygbcfrw.streamlit.app/)
+
+## 💻 GitHub Repository
+
+[View Source Code](https://github.com/Ayush2809-tech/python-api-data-dashboard)
 
 An interactive data dashboard built using Python and Streamlit that fetches,
 processes, filters, and visualizes data from an external REST API.
